@@ -9,22 +9,17 @@ Este é um template LaTeX para o desenvolvimento do Projeto Integrador da univer
 
 Nos arquivos **.tex** que compõe este *template*, existem diversos exemplos de como utilizar os comandos disponíveis como a inclusão de:
 
-+ Algoritmos;
-+ Equações;
 + Figuras;
-+ Quadros;
 + Tabelas;
 + Citações (*direta e indireta)*.
 
 Além da:
 
 + Criação de seções e subseções;
-+ Inclusão de Apêndices e Anexos;
 + Inclusão de resumos de capítulos;
 + Marcação com tachado (colorido);
 + Inclusão de observações (coloridas);
 + Comentários para correções (colorido);
-+ Inclusão de tabelas no modo *paisagem*.
 
 Bibliografia
 
